@@ -1,0 +1,3 @@
+[Student]-(View details),[Student]-(View grades),(View details)>(Login),(View grades)>(Login),[Teacher]-(View students),[Teacher]-(Add student),[Teacher]-(Add grades),(Add student)<(Student already exists),(View students)>(Login),(Add student)>(Login),(Add grades)>(Login),(Login)<(Login failed),[Administrator]-(Create account),(Create account)<(Account already exists),[Administrator]-(Add subject)
+
+
